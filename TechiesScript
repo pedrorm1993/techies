@@ -1,4 +1,4 @@
---<<Techies combo by Pedrorm1993 v0.4>>
+--<<Techies combo by Pedrorm1993 v00.4>>
 
 require("libs.Utils")
 require("libs.EasyHUD")
